@@ -1,7 +1,7 @@
 <template>
   <div>
-    <h1>Default NuxtLayout</h1>
-    <slot/>
+    <BaseNavigation />
+    <slot />
   </div>
 </template>
 
